@@ -909,7 +909,7 @@ Vue.component('page-editor', {
       return [
         [-1, "Deactivated - don't show"],
         [ 0, "Automatic duration (" + this.auto_duration.toFixed(2) + "s)"],
-        [ 1, "Show 1 second"],
+        [ 1, "Goster 1 second"],
         [ 2, "Show 2 seconds"],
         [ 3, "Show 3 seconds"],
         [ 5, "Show 5 seconds"],
